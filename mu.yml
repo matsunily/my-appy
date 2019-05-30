@@ -7,4 +7,3 @@ service:
   healthEndpoint: /
   pathPatterns:
   - /*
-  pipeline:
